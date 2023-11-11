@@ -176,7 +176,8 @@ Closes #<pr number>
 ```
 
 ```
-PR URL: https://github.com/xxxx
+PR-URL: https://github.com/xxxx
+PR-URL: #3
 ```
 
 Breaking Change section should start with the phrase "BREAKING CHANGE: " followed by a summary of the breaking change, a blank line, and a detailed description of the breaking change that also includes migration instructions.

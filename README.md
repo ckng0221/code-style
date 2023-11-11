@@ -32,7 +32,7 @@ indent_size = 2
 
 ### .eslintrc.\*
 
-For local configuration of ES Lint.
+For local configuration of ESLint.
 eg.
 `eslintrc.json`
 
@@ -52,6 +52,15 @@ eg.
     "quotes": ["error", "single"]
   }
 }
+```
+
+### .eslintignore
+
+For local ignore files by ESLint
+
+```
+**/node_modules/**
+*.d.ts
 ```
 
 ### .prettierrc
